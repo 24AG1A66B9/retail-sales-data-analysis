@@ -129,3 +129,6 @@ Region
 Quantity
 Sales
 Profit
+```
+## live demo
+https://retail-sales-data-analysis-ewwnpdwwh5hhtwn7snjjto.streamlit.app/
