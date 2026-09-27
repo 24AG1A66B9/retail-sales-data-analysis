@@ -130,5 +130,5 @@ Quantity
 Sales
 Profit
 ```
-## live demo
+## 🚀 Live demo
 https://retail-sales-data-analysis-ewwnpdwwh5hhtwn7snjjto.streamlit.app/
